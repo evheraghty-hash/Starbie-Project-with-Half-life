@@ -9,6 +9,8 @@ I used Arduino IDE to code this project and designed it in KiCad.
 
 Here are some photos of the project. I had a lot of confusion with the schematics and PCB editing since it was one of my first major PCB editing projects.
 
+For the code, I used what was provided in Half-life. I might change my digital character later, but for now everything is roughly the same as the Half-life code.
+
 <img width="903" height="621" alt="Screenshot 2026-10-21 at 6 45 10 PM" src="https://github.com/user-attachments/assets/254f74cf-69d7-42e4-928a-76ecf870d39c" />
 
 
