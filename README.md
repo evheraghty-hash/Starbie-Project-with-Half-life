@@ -12,4 +12,4 @@ Here are some photos of the project. I had a lot of confusion with the schematic
 <img width="903" height="621" alt="Screenshot 2026-10-21 at 6 45 10 PM" src="https://github.com/user-attachments/assets/254f74cf-69d7-42e4-928a-76ecf870d39c" />
 
 
-<img width="1465" height="913" alt="Screenshot 2026-10-21 at 6 44 48 PM" src="https://github.com/user-attachments/assets/d894380a-870d-4b08-8b25-636ae78896e2" />
+<img width="842" height="581" alt="Screenshot 2026-10-21 at 6 47 43 PM" src="https://github.com/user-attachments/assets/866954a8-218d-44ac-a77c-6a27c49550b1" />
